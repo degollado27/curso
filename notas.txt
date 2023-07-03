@@ -1,3 +1,4 @@
 "Esta es una nota hecha en la rama de Degollado"
 
-"esta modificacion es hecha por antonio"
+"esta modifigicacion es hecha por antonio"
+nueva modidifacaion usando visual Studio
